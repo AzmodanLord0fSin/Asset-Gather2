@@ -1,5 +1,5 @@
 ###############################################################################################################
-# Asset gathering script for Holysov, Daimler Buses                                                           #
+# Asset gathering script for XYZ                                                      #
 # Version: 0.1                                                                                                #
 # Copyright: All rights reserved                                                                              #
 # Author: Tobias Knobloch, Acurity - Lutz und Grub AG                                                         # 
